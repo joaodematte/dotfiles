@@ -1,0 +1,17 @@
+font-size = 12
+font-family = JetBrainsMono NF SemiBold
+font-family-bold = JetBrainsMono NF ExtraBold
+font-feature = +liga
+
+theme = mellow
+bold-is-bright = true
+mouse-hide-while-typing = true
+
+shell-integration-features = no-cursor
+cursor-style = block
+
+window-decoration = false
+window-padding-x = 10
+window-padding-y = 10
+
+confirm-close-surface = false
